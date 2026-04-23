@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4946ff&height=120&section=header"/>
 
-<div align="center">
+<div>
   <h1>Software Engineer</h1>
 
   <div align="center">  
