@@ -12,18 +12,18 @@
   <div><a href="https://ryandev.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Portfólio"/></a> <a href="https://www.linkedin.com/in/zryanzito/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=devbox&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="LinkedIn"/></a> <a href="https://www.youtube.com/@zRyanDev"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="YouTube"/></a> <a href="https://discord.gg/tEzrNJa7G6"><img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Discord"/></a> <a href="mailto:contato@ryandev.com.br"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Gmail"/></a></div>
 
 
-  <h2>Tecnologias</h2>
-  <div>
-    <img align="center" height="35" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" height="35" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" height="35" width="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" height="35" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="center" height="35" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="35" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-    <img align="center" height="35" width="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" height="35" width="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" height="35" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  </div>
+  <h2>Tecnologias</h2>
+  <div>
+    <img height="35" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img height="35" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img height="35" width="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img height="35" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img height="35" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img height="35" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+    <img height="35" width="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img height="35" width="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img height="35" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  </div>
   <br/>
 
   <p>Meu objetivo é transformar ideias em aplicações que façam a diferença no mundo digital.</p>
