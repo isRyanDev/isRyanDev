@@ -36,8 +36,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4946ff&height=120&section=footer"/>
-
-
-por que nesse md ali em tecnologias ta ficando na vertical e nao horizontal
-
-preciso deixar na horizontal e nao vertical;
